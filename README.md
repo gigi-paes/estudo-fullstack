@@ -1,1 +1,1 @@
-# estudo-fullstack
+Um projeto desenvolvido como parte da Imersão Dev da Alura, com o objetivo de consolidar conhecimentos fundamentais em desenvolvimento Web (HTML, CSS, JavaScript) e introduzir a aplicação de conceitos de Inteligência Artificial ou consumo de APIs.
